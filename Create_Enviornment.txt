@@ -1,0 +1,5 @@
+Step-1 Create a new folder named NutritionAgent
+Step-2 Create a virtual environment ---->  python -m venv myenv
+Step-3 Activate the virtual environment ----> myenv\Scripts\activate
+Step4- pip install streamlit 
+step5- streamlit run smartagentui26.py
